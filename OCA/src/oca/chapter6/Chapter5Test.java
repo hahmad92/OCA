@@ -3,8 +3,8 @@ package oca.chapter6;
 public class Chapter5Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String[] animals = new String[0];
+		System.out.println(animals[0]);
 	}
 
 }
