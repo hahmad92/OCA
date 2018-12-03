@@ -14,4 +14,5 @@ public class Goose extends Bird {
 		other.floatInWater(); // DOES NOT COMPILE
 		System.out.println(other.text); // DOES NOT COMPILE
 	}
+	
 }
