@@ -9,6 +9,9 @@ public class InstanceInitializer {
 		{
 			System.out.println("Feathers");
 		}
+		if(true) {
+			
+		}
 
 	}
 

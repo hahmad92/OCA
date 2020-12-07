@@ -13,6 +13,7 @@ public class Chick {
 		Chick chick = new Chick();
 		chick.Chick();
 	}
+	
 	@Override
 	protected void finalize() throws Throwable {
 		super.finalize();

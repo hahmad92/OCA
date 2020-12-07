@@ -12,6 +12,14 @@ public class Chapter2Test {
 		} else {
 			System.out.println("Good Evening");
 		}
+		System.out.println(-10/-3);
 	}
 
+	public static void addSmallTypes() {
+		short s = 10;
+		byte b = 10;
+		
+		s = s + b;
+		
+	}
 }

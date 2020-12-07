@@ -9,6 +9,12 @@ public class AssignmentOperators {
 		// long t = 192301398193810323; // DOES NOT COMPILE
 		
 		 long t = 19230139899999l; // DOES NOT COMPILE
+		 
+		 System.out.println(6.4%2.1);
+		 
+		 boolean b = false;
+		 boolean c = false;
+		 System.out.println((b)(c));
 	}
 
 }
